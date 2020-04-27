@@ -1,0 +1,40 @@
+/*folha personalizada*/
+
+body{
+    background-color: #000;
+}
+
+section{
+     padding: 100px  0;
+}
+footer{
+    padding: 50px;
+}
+#sessao_1{
+    height:800px;
+    background-color: #000;
+    background-image: url("../img/bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+#sessao_5{
+    height: 680px;
+    padding-top:150px;
+    background-image: url("../img/3.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.background_rosa{
+ background-color: #d41ae3;
+
+}
+
+.sombra{
+    text-shadow: 6px 6px 6px #111;
+}
+
+.borda{
+    border-right:20px solid black;
+}
